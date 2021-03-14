@@ -1,11 +1,16 @@
 # Udacity-Information_Security
 Udacity-Information_Security
 
+## Udacity
+
+## 1. Intro to Information Security
+
+## 2. Applied Cryptography
 
 
 -------
 
-## Intro to Information Security
+## 1. Intro to Information Security
 byGeorgia Institute of Technology
 
 Offered at Georgia Tech as CS 6035
@@ -21,5 +26,18 @@ In addition to its technical content, the course touches on the importance of ma
 
 
 -------
+
+## 2. Applied Cryptography
+
+Science of Secrets
+
+
+Cryptography is present in everyday life, from paying with a credit card to using the telephone. 
+
+Learn all about making and breaking puzzles in computing.
+
+
+-------
+
 
 
